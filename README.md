@@ -12,11 +12,20 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (This Project)
+
+* **Frontend:** React, Tailwind CSS
+* **Libraries:** EmailJS, React Icons, React Type Animation
+* **Deployment:** Vercel
+
+---
+
+## 💡 My Skills
 
 * **Frontend:** React, Tailwind CSS
 * **Backend:** Django, FastAPI, Spring Boot
-* **Other Tools:** EmailJS, Git, REST APIs
+* **Languages:** JavaScript, Python, Java
+* **Databases:** MongoDB, SQL
 
 ---
 
