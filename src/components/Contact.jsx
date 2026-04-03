@@ -15,10 +15,10 @@ function Contact() {
 
     emailjs
       .sendForm(
-        "service_h5e5rqr",
-        "template_878qm5i",
+        import.meta.env.VITE_SERVICE_ID,
+        import.meta.env.VITE_TEMPLATE_ID,
         form.current,
-        "PfjgXx71raRR79OlS"
+        import.meta.env.VITE_PUBLIC_KEY
       )
       .then(
         () => {
