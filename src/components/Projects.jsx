@@ -13,10 +13,10 @@ function Projects() {
       link: "https://github.com/RexMukherjee/Movie-Recommendation-System",
     },
     {
-      title: "Weather App",
-      desc: "Django-based weather application using OpenWeather API to show real-time weather data.",
-      tech: ["Django", "API"],
-      link: "https://github.com/RexMukherjee/Weather-App",
+      title: "Real-Time Chat App",
+      desc: "Real-time chat application built using React and Socket.IO supporting instant messaging between users.",
+      tech: ["React", "Socket.IO", "WebSockets"],
+      link: "https://github.com/RexMukherjee/chat-app-socketio-react",
     },
     {
       title: "Notes API",
